@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="localhost/gb" id="bd8629da-460d-4743-97b1-665f30edf33c" name="localhost" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/Applications/MAMP/htdocs/gb" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+</project>
