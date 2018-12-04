@@ -3,10 +3,10 @@ require('assets.php');
 ?>
 
 <div class="container">
-    <h1>MyQuestBook 3 AddRow</h1>
+    <h1>MyQuestBook 📖 AddRow</h1>
 
     <div class="form-group">
-        <form id="form1" name="form1" method="post" action="addguestbook.php">
+        <form id="form" name="form" method="post" action="addguestbook.php">
             <label for="name">Username</label>
             <input name="username" type="text" id="name" size="30" required class="form-control"/>
             <label for="email">Email</label>

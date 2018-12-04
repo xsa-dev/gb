@@ -21,7 +21,7 @@ $result = $conn -> query($sql);
 <div class="row">
     <div class="container">
 
-        <h1>MyQuestBook 3 SortTable</h1>
+        <h1>MyQuestBook 📖 SortTable</h1>
         <a href="guestbook.php" class="btn btn-warning" id="addRow"/>Add Row</a>
         <table class="table responsive" id="sort" data-page-length='25'>
             <thead>
